@@ -1,0 +1,11 @@
+name,age,gender,math_score,english_score,science_score,attendance,passed
+Arjun,17,M,78,82,74,92,Yes
+Priya,18,F,91,88,95,98,Yes
+Ravi,16,M,45,50,42,60,No
+Sneha,17,F,67,72,69,85,Yes
+Kiran,18,M,34,41,38,45,No
+Meera,16,F,88,91,87,96,Yes
+Rohan,17,M,55,60,52,70,No
+Divya,18,F,95,97,93,99,Yes
+Amit,16,M,40,38,44,55,No
+Pooja,17,F,73,79,71,88,Yes
