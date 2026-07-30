@@ -12,3 +12,4 @@ print(df[df['attendance'] > 80])
 print(df.groupby('gender')[['math_score', 'english_score', 'science_score']].mean())
 df['total_score']=df['math_score']+df['english_score']+df['science_score']
 print(df[['name', 'total_score']])
+print(df['math_score'].mean())
