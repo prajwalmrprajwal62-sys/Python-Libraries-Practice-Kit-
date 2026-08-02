@@ -10,3 +10,6 @@ print(df1.merge(df2, on='name'))
 print(df1.merge(df2, on='name', how='inner'))
 print(df1.merge(df2, on='name', how='left'))
 print(df1.merge(df2, on='name', how='right'))
+
+merged_df = df.merge(df2, on='name', how='left')
+merged_df.to_csv('merged_students.csv', index=False)
